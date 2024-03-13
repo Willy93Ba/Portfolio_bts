@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#game-container {
+    margin-top: 50px;
+}
+
+#stage {
+    margin-top: 20px;
+}
+
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+}
